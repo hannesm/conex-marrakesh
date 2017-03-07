@@ -1,0 +1,57 @@
+signed: [
+  ["wraps" 0x0]
+  ["version" 0x0]
+  ["typ" "author"]
+  [
+    "resources"
+    [
+      [
+        ["typ" "key"]
+        ["name" "reynir"]
+        ["index" 0x1]
+        ["digest" ["SHA256" "TDOrPFHOqZ850Xy3Racmoy2xMZMBeBGZJClZlEcmveQ="]]
+      ]
+      [
+        ["typ" "account"]
+        ["name" "reynir"]
+        ["index" 0x2]
+        ["digest" ["SHA256" "S3LIqK3Uq/NKCS2xtruYqZon20RjvtxuT7V/zAaGQAo="]]
+      ]
+    ]
+  ]
+  ["name" "reynir"]
+  ["created" 0x58BED551]
+  ["counter" 0x1]
+]
+
+keys: [
+  [
+    [
+      "RSA"
+      """
+-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAwfDA4MaTwpnUumOQmGrD
+BUlyL0gJ0KZX7NibuY3XBHylBqnh5Wtepbl7ZE6HXsKdiQ45rKILRPDEoe90zf1R
+2drmuxJxLrWMJSSrYCEU/EhkF3McCPB/KOQomnnOSUk6bamB0F1pUB9VlUkv5Lns
+wqeXFub9ZUnG9p1McDlY23G7yxLhxYuALADU2rdrKlR07imTKFKRHPfmOxQkyPL7
+npDuukwUTFj3qEIxFYlvTb2lI4KnvnoDd1ma2KiRPtXdZayRiMgci3pcyh+DuhH4
+CnUnwwVuaP1bUvyqgJawbHYzkWg49my0V4sEpFuUQHNOJ0MmB6oj5bUJYLfjTnb7
+gpRcWdh2b+Qp8oRk4+9qpfp2/nMgO6zsyXkI3HLmqJRWUis1/icdQTbF8YC2H728
+KeyPoJiZxsoJwPpnAjDmVrLXS+VYb+EHLiHVE8sRPdTYy7VpxAG/c6HJ3wBGv5JK
+9GfGU3R2Tpf3f1qXK+TeLmUQzuE3SMcPwMWHMyYyyowTAy22x3OeFotF6WSGerA1
+MCmiiy7i/279kwpNkmSu0qRC+CT15g6H6EcEtBibBwNNE+GVoeELxd/xGdvl6hmm
+WaRoLjgTUYs0YLd3E209PbSR6sSbFhiCWHQxqQJMGaknYPhCBntj9bPJ8CVPV0Gc
+bFzhNkxOv6YGn1+Bs3jFF7UCAwEAAQ==
+-----END PUBLIC KEY-----"""
+      0x58BED551
+    ]
+    [
+      0x58BED551
+      "RSA-PSS-SHA256"
+      "J3GZUqfp19ETL2Y2YNIs3xNZ7bWkDZQ2KFWM0OfiKKPp8dKT6RAg1cQ7vGjNJwXev4wLn0w1XOu8gpyCP6CGPnJVuHnTVuD1xoJWVB/bnIUrhplL3eG6NKigZNKss2f6mjziGGJXbXuI8d5ZKCgoGw5S44DMbuVFJWuIxGnaJjI5zAjHhEc7w7ll8jjtALey0QL40qHLjhxN9dWEoszJMeKQjqaCLlkr8YjIi2BFomjjMJrfoeygq7gGIKHymMQofmyqg1fG48V0WesZ2hM96jIA6ujaBSpDiUkRmJBFB5CiAkq9ngC0xfoFA5mRrxrcn/OrlFbSIroSnCwKXl8XgManKmzA1z/u7P1C5bDMj3lRK1FJwIW4Escv6V11D/QOln+uxBRX3gTl75uQiOLvJiLf7tj812V4iKQ4g1AmP48CwQX5Qx6oOv/WkJKvU4TL0+NcZ7nwA6FAvVFcfHQxDWvsSKzLiwDuT3MkhKNgFJwclWb5gbkQnMt1D3/8hSVSCa900BROyLSk9c45BUSCwvQG35V32CcCSR9m8H8OPYEe/SQMLIPpBhyK9QlTvKxuhG96M2cXqyy5JsaGywOeoi0sO8fcgEQ23Lo2GbGDqYE92b9/flCoxmkBBwnHM47azC0DFD6b7paYRxa8MPokgmBF9c0LjW8zEBiZXHMgzZM="
+    ]
+  ]
+]
+accounts: [
+  ["github" "reynir"]
+]
