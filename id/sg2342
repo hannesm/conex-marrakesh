@@ -1,0 +1,57 @@
+signed: [
+  ["wraps" 0x0]
+  ["version" 0x0]
+  ["typ" "author"]
+  [
+    "resources"
+    [
+      [
+        ["typ" "key"]
+        ["name" "sg2342"]
+        ["index" 0x1]
+        ["digest" ["SHA256" "0fAWl27iV5fJTG+NiHKYyG7SKszDRb9KPKDZQLuUdkg="]]
+      ]
+      [
+        ["typ" "account"]
+        ["name" "sg2342"]
+        ["index" 0x2]
+        ["digest" ["SHA256" "P0d/bIho7U2pgjtryB9k1vf4HnRjz3WKSWdSL4gOIKc="]]
+      ]
+    ]
+  ]
+  ["name" "sg2342"]
+  ["created" 0x58BF41EC]
+  ["counter" 0x1]
+]
+
+keys: [
+  [
+    [
+      "RSA"
+      """
+-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA3/ue9AEcnFiwkn18tNhy
+UsVICZQwrl9uv/QZePTu62cRXy34i5BwldYHDHYi2VnyxBEEwQDX1KsJEev6HDtb
+xWIxkWppwDeuLpAxEXMJ33P9d3rhep+PjpAtl+gTkxM4pDqPrfXjDx345YVkYPaU
+EOwTwIyyUowkrxIt56yq03Mj2HP4bO1peq16OdB+U2HzIHaZcXKMFwAyTnmAXnr5
+Hvf2veHWTkvbI3Xkkn8Uvvmm1wGuZE7IznFtmre6lP9K1bOznnApz2f95Hudkd6u
+Xq4DUmJOI655VGvviBJM5azPdd1m/hQFHPtB5aS1E6YpHvvJfGJRwzAArX0xtA4n
+hYOQQTfPF5rVSacEQYQXum+JMv775hk3tEuRa8N+YZvUKBbkxb7CdJmH+sZCR0bx
+KrFZ20UHF/Pb08MOKvMNueBHbeU0ktWVRtMFr2E+G/Ym64sK38Uglcjd5RVx1ZMG
+ElKGEvIAphGKLMmu9JFSmwmY/DGUbJyWEQKUY1q6AHYFUFZfzadpIObhrbc92E0a
+lMlPpIvwqxDhRYOI7Ud2OSd4DWAF4uvjjXGbrwDQQb1y4x/9XlaD/tjJEk5G1FiB
+MAqAjo1dNgumFDgULHbvPPfvQJvre6m+65tBlSdov5HrbIcEN9//TW+dBDdCc3vC
+CIqkbyxy7FVz1Z+1GGRq23sCAwEAAQ==
+-----END PUBLIC KEY-----"""
+      0x58BF41EC
+    ]
+    [
+      0x58BF41EC
+      "RSA-PSS-SHA256"
+      "U61WB96Q4bSjSdCZ7Gal8FzaDCgNA/X6Fv7iwL9KOlg3HmMji/O0Q5z2DbsUx5YL7ZeUqnoJG3BszvOT21l3s0QsPCI1zyRWiNnTiJX+l6hoYyA5ABgW5HDgDkJOq7tp9Ojkj07EyrWfwzSHQUmKDkHrNU+pJ3BuEs0ROr2jwyc3Y7lNLP8jJgcyjDmpsmUFEWFdPgXoo4ILBY3LSN4whrgTGDglNybq+Boo68aWt98hfqAMaWZEadGZF9xjm5qCS07MJK0Xa66jgxOiLSYDEUgDO1+oZM0pOHCnXaXTk6Otnilpkauqa+xr9vzTCzQVCrA5nOvZ9jTaBmNLA1flTtlv220JGjhrQWfr5TjhdjoK//1FQH5YBlqBSnGOpNjUKy+FjdShwYE0FuzxOMFVGeMtqbKz09dmeLoKAcGrGOdkpygYYgSse36B5+OVy7vTBBoC0qwHifwhilwqai+vDlbZLXCKezGmQyI6yusiGsrDkUi9KyB7qYUsVwwQ8w+ihmxM6p/OMJyhrjf5jYAmFw1IZrq83HoNtlS8m8WqITkcWP5g+Tppn2hxgJNqQ2kVI4Em2PGHFytwdpfFGXE5RC1zRrboouWiD7tluYn7GQxNugh+R4W+qmtNI30joReklzoU27gFk+khI6YxEWzdyy/SwWWMR33NpH93f1LxZ10="
+    ]
+  ]
+]
+accounts: [
+  ["github" "sg2342"]
+]
