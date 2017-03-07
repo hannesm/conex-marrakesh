@@ -1,0 +1,11 @@
+wraps: 0x0
+version: 0x0
+typ: "release"
+name: "punycode.1.0"
+files: [
+  [["SHA256" "rJvbKVYuQyzCYycbTgDr0TNlE9pM1Et9BE5vAmF+VlE="] "url"]
+  [["SHA256" "IIGNnaUf3HmwRRMp8LbiOYNgINItox6sx+8H6MVp6gE="] "findlib"]
+  [["SHA256" "Q2I5DFTEo7znW4hgbhMO/rJg5kt6YzI9r7kUa/wts98="] "descr"]
+]
+created: 0x58BEEC12
+counter: 0x1

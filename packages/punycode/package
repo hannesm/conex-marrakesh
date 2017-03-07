@@ -1,0 +1,7 @@
+wraps: 0x0
+version: 0x0
+typ: "package"
+releases: ["punycode.1.0"]
+name: "punycode"
+created: 0x58BEEC12
+counter: 0x1
